@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bj.jpg</file>
+        <file>bj_night.jpg</file>
+        <file>day.png</file>
+        <file>h1.png</file>
+        <file>h2.png</file>
+        <file>h3.png</file>
+        <file>night.png</file>
+        <file>reword.png</file>
+        <file>star.png</file>
+        <file>sys_icon.png</file>
+        <file>t1.png</file>
+        <file>t2.png</file>
+        <file>t3.png</file>
+        <file>密码.png</file>
+        <file>锁关.png</file>
+        <file>锁开.png</file>
+        <file>指纹.png</file>
+        <file>3.wav</file>
+        <file>1.wav</file>
+        <file>2.wav</file>
+        <file>4.wav</file>
+        <file>5.wav</file>
+        <file>bj.wav</file>
+    </qresource>
+</RCC>
